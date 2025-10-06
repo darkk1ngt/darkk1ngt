@@ -33,21 +33,19 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/temwani ;)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=temwani%20;)&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://preview.redd.it/one-piece-episode-1071-gifs-v0-tx74okoacfgb1.gif?width=640&crop=smart&auto=webp&s=8600b9cb15d213cf73d7a7534fa402ac5789ec4c"  />
+  <img src="?" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkk1ngt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://preview.redd.it/one-piece-episode-1071-gifs-v0-tx74okoacfgb1.gif?width=640&crop=smart&auto=webp&s=8600b9cb15d213cf73d7a7534fa402ac5789ec4c"  />
 </div>
 
 ###
