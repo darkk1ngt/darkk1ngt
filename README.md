@@ -30,6 +30,10 @@
 
 <h3 align="left">Current spotify bangers:</h3>
 
+<div align="center">
+  <img height="200" src="https://preview.redd.it/one-piece-episode-1071-gifs-v0-tx74okoacfgb1.gif?width=640&crop=smart&auto=webp&s=8600b9cb15d213cf73d7a7534fa402ac5789ec4c"  />
+</div>
+
 ###
 
 <div align="center">
@@ -42,6 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkk1ngt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+![image](https://preview.redd.it/one-piece-episode-1071-gifs-v0-tx74okoacfgb1.gif?width=640&crop=smart&auto=webp&s=8600b9cb15d213cf73d7a7534fa402ac5789ec4c)
 ###
 
 <div align="center">
