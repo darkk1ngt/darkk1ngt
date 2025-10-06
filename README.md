@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FMemePiece%2Fcomments%2F15jh9eg%2Fone_piece_episode_1071_gifs%2F&psig=AOvVaw37C8EPRbrPj5kHcMyeWLNu&ust=1759835820920000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOD1_bq5j5ADFQAAAAAdAAAAABAE"  />
+  <img height="200" src="https://preview.redd.it/one-piece-episode-1071-gifs-v0-tx74okoacfgb1.gif?width=640&crop=smart&auto=webp&s=8600b9cb15d213cf73d7a7534fa402ac5789ec4c"  />
 </div>
 
 ###
