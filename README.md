@@ -48,6 +48,6 @@
 
 <h2 align="left">Current Spotify Bangers:</h2>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iz8wm09oe098nx39df3qax93r)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iz8wm09oe098nx39df3qax93r&unique={true|1|on|yes})
 
 ###
