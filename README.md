@@ -1,4 +1,10 @@
-<h3 align="left">Proficient:</h3>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h2 align="left">Proficient:</h2>
 
 ###
 
@@ -7,58 +13,33 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
 ###
 
-<h3 align="left">Semi-Proficient:</h3>
+<h2 align="left">Semi-Proficient:</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
-<h3 align="left">Current spotify bangers:</h3>
-
-<div align="center">
-  <img height="200" src="https://preview.redd.it/one-piece-episode-1071-gifs-v0-tx74okoacfgb1.gif?width=640&crop=smart&auto=webp&s=8600b9cb15d213cf73d7a7534fa402ac5789ec4c"  />
-</div>
+<h2 align="left">Current Spotify Bangers:</h2>
 
 ###
 
 <div align="center">
-  <img src="?" alt="Widget with the current Spotify song"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkk1ngt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-![image](https://preview.redd.it/one-piece-episode-1071-gifs-v0-tx74okoacfgb1.gif?width=640&crop=smart&auto=webp&s=8600b9cb15d213cf73d7a7534fa402ac5789ec4c)
-###
-
-<div align="center">
-  <img height="200" src="https://preview.redd.it/one-piece-episode-1071-gifs-v0-tx74okoacfgb1.gif?width=640&crop=smart&auto=webp&s=8600b9cb15d213cf73d7a7534fa402ac5789ec4c"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkk1ngt/darkk1ngt/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkk1ngt/darkk1ngt/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/darkk1ngt/darkk1ngt/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
