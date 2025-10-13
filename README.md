@@ -48,3 +48,8 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iz8wm09oe098nx39df3qax93r&unique={true|1|on|yes})
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkk1ngt/darkk1ngt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkk1ngt/darkk1ngt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/darkk1ngt/darkk1ngt/output/pacman-contribution-graph.svg">
+</picture>
