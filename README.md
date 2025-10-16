@@ -48,13 +48,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
-
 <h2 align="left">Current Spotify Bangers:</h2>
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iz8wm09oe098nx39df3qax93r&unique={true|1|on|yes})
-
-###
-
 
 ###
 <picture>
