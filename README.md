@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
@@ -44,8 +45,18 @@
 ###
 
 <h2 align="left">Current Spotify Bangers:</h2>
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iz8wm09oe098nx39df3qax93r&unique={true|1|on|yes})
+
+new 
+<h2 align="left">Prospective Languages :</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <img width="12" />
+
+###
+
 
 ###
 <picture>
