@@ -32,10 +32,16 @@
 
 ###
 
+<h2 align="left">Prospective Languages :</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <img width="12" />
+
+  ###
+
 <h2 align="left">Social Media:</h2>
-
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -46,14 +52,6 @@
 
 <h2 align="left">Current Spotify Bangers:</h2>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iz8wm09oe098nx39df3qax93r&unique={true|1|on|yes})
-
-new 
-<h2 align="left">Prospective Languages :</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <img width="12" />
 
 ###
 
