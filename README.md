@@ -44,13 +44,10 @@
 
 <h2 align="left">Social Media:</h2>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="30"/>
-</a>
 
 
 <h2 align="left">Current Spotify Bangers:</h2>
