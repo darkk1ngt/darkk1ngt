@@ -24,10 +24,10 @@
   <img width="12" />
   <a href = https://developer.mozilla.org/en-US/docs/Glossary/Node.js?ref=pyxofy><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /><a/>
   <img width="12" />
-  <a href = ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /><a/>
-  <a href = ><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /><a/>
+  <a href = https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_resources><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /><a/>
+  <a href = https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /><a/>
   <img width="12" />
-  <a href = ><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  /><a/>
+  <a href = https://developer.mozilla.org/en-US/docs/Glossary/SQL><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  /><a/>
   <a href = ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /><a/>
 </div>
 
