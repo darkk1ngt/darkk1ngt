@@ -6,7 +6,7 @@
 ###
 
 <div align="left">
-  <a href = [https://www.python.org/](https://developer.mozilla.org/en-US/docs/Glossary/Python) ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /><a/>
+  <a href =https://www.python.org/](https://developer.mozilla.org/en-US/docs/Glossary/Python)(https://git-scm.com/docs/git) ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /><a/>
   <img width="12" />
   <a href = https://developer.mozilla.org/en-US/docs/Web/HTML><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /><a/>
   <img width="12" />
