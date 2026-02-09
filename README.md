@@ -6,11 +6,11 @@
 ###
 
 <div align="left">
-  <a href = https://www.python.org/ ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /><a/>
+  <a href = [https://www.python.org/](https://developer.mozilla.org/en-US/docs/Glossary/Python) ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /><a/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <a href = https://developer.mozilla.org/en-US/docs/Web/HTML><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /><a/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <a href = https://developer.mozilla.org/en-US/docs/Web/CSS><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  /><a/>
 </div>
 
 ###
@@ -20,15 +20,15 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <a href = https://developer.mozilla.org/en-US/docs/Web/JavaScript><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /><a/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <a href = https://developer.mozilla.org/en-US/docs/Glossary/Node.js?ref=pyxofy><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /><a/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <a href = ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /><a/>
+  <a href = ><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /><a/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <a href = ><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  /><a/>
+  <a href = ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /><a/>
 </div>
 
 ###
