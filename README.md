@@ -24,10 +24,10 @@
   <img width="12" />
   <a href = https://nodejs.org/en/learn/getting-started/introduction-to-nodejs><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /><a/>
   <img width="12" />
-  <a href = https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_resources><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /><a/>
-  <a href = [https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs](https://git-scm.com/docs/git)><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /><a/>
+  <a href = https://react.dev/learn><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /><a/>
+  <a href = https://expressjs.com/en/starter/installing.html><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /><a/>
   <img width="12" />
-  <a href = https://developer.mozilla.org/en-US/docs/Glossary/SQL><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  /><a/>
+  <a href = https://dev.mysql.com/doc/refman/8.4/en/what-is-mysql.html><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  /><a/>
   <a href = https://git-scm.com/docs/git><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /><a/>
 </div>
 
@@ -35,9 +35,9 @@
 
 <h2 align="left">Prospective Languages :</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <a href = https://www.typescriptlang.org/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /><a/>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <a href = https://nextjs.org/docs><img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  /><a/>
   <img width="12" />
 
   ###
