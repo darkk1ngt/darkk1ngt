@@ -20,7 +20,7 @@
 ###
 
 <div align="left">
-  <a href = https://developer.mozilla.org/en-US/docs/Web/JavaScript><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /><a/>
+  <a href = https://developer.mozilla.org/en-US/docs/Web/JavaScript(https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /><a/>
   <img width="12" />
   <a href = https://developer.mozilla.org/en-US/docs/Glossary/Node.js?ref=pyxofy><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /><a/>
   <img width="12" />
