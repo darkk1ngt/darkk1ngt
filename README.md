@@ -33,26 +33,15 @@
 </div>
 
 <h2 align="left">Social Media:</h2>
-
-<table>
-  <tr>
-    <td>
       <a href="https://discord.com/users/YOUR_ID">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
       </a>
-    </td>
-    <td>
       <a href="https://www.youtube.com/@Rewind-dniweR">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
       </a>
-    </td>
-    <td>
       <a href="mailto:noellusale7@gmail.com">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
       </a>
-    </td>
-  </tr>
-</table>
 
 <h2 align="left">Current Spotify Bangers:</h2>
 
