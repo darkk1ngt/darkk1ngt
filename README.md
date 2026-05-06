@@ -44,7 +44,7 @@
 
 <h2 align="left">Current Spotify Bangers:</h2>
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=iz8wm09oe098nx39df3qax93r&unique=true" width="800" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=iz8wm09oe098nx39df3qax93r&unique=true" width="600" alt="Spotify Recently Played" />
 </div>
 
 <picture>
