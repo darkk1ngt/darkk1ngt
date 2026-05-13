@@ -32,6 +32,11 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="ruby logo" />
   </a>
+   <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
+  </a>
+  <img width="12" />
+</div>
 </div>
 
 <h2 align="left">Social Media:</h2>
