@@ -25,6 +25,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></a>
   <img width="12" />
   <a href="https://nextjs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo" /></a>
+  <a href="https://www.ruby-lang.org/en/documentation/" target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" height="40" alt="ruby logo"  /></a>
+</div>
 </div>
 <h2 align="left">Social Media:</h2>
       <a href="https://discord.com/users/YOUR_ID">
