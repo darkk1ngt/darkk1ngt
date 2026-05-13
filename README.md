@@ -12,11 +12,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
 </div>
 
 <h2 align="left">Prospective Languages:</h2>
@@ -32,6 +32,7 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="ruby logo" />
   </a>
+  <img width="12" />
    <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
   </a>
