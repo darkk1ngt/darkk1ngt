@@ -1,40 +1,58 @@
 <h2 align="left">Tech Stack:</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <a href="https://nodejs.org/en/docs" target="_blank">
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  </a>
   <img width="12" />
 </div>
 
 <h2 align="left">Prospective Languages:</h2>
 <div align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   </a>
   <img width="12" />
-  <a href="https://isocpp.org/" target="_blank">
+  <a href="https://en.cppreference.com/w/" target="_blank">
     <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo" />
   </a>
   <img width="12" />
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
+  <a href="https://www.ruby-lang.org/en/documentation/" target="_blank">
     <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="ruby logo" />
   </a>
   <img width="12" />
-   <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://nextjs.org/docs" target="_blank">
     <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
   </a>
   <img width="12" />
