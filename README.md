@@ -40,12 +40,14 @@
 
 <h2 align="left">Social Media:</h2>
 <div align="left">
-  <a href="https://discord.com/users/YOUR_ID">
+  <a href="https://discord.com/users/YOUR_ID" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
-  <a href="https://www.youtube.com/@Rewind-dniweR">
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Rewind-dniweR" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:noellusale7@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
@@ -59,5 +61,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkk1ngt/darkk1ngt/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/darkk1ngt/darkk1ngt/output/pacman-contribution-graph.svg">
 </picture>
-
-
