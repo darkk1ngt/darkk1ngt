@@ -2,8 +2,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
@@ -20,19 +18,21 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
 </div>
 
 <h2 align="left">Prospective Languages:</h2>
 <div align="left">
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="ruby logo" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   </a>
   <img width="12" />
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.ruby-lang.org/en/" target="_blank">
+    <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="ruby logo" />
   </a>
 </div>
 
