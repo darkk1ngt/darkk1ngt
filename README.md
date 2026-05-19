@@ -54,8 +54,9 @@
 </div>
 
 <h2 align="left">Current Spotify Bangers:</h2>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=iz8wm09oe098nx39df3qax93r&unique=true)
-
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkk1ngt/darkk1ngt/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkk1ngt/darkk1ngt/output/pacman-contribution-graph.svg">
