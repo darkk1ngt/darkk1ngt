@@ -29,10 +29,6 @@
     <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="ruby logo" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://nextjs.org/docs" target="_blank">
     <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" />
   </a>
